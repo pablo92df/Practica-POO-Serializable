@@ -1,0 +1,142 @@
+C:\Users\Maxi\source\repos\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Maxi\source\repos\POS\POS\bin\Debug\POS.exe
+C:\Users\Maxi\source\repos\POS\POS\bin\Debug\POS.pdb
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.exe
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.pdb
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.Clientes.resources
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.Egresos.resources
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.Menu.resources
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.Caja.resources
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.Ingresos.resources
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.Stock.resources
+C:\Users\Maxi\source\repos\POS\POS\obj\Debug\POS.Ventas.resources
+C:\Users\Pablo\Desktop\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Pablo\Desktop\POS\POS\bin\Debug\POS.exe
+C:\Users\Pablo\Desktop\POS\POS\bin\Debug\POS.pdb
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.Caja.resources
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.Clientes.resources
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.Egresos.resources
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.Ingresos.resources
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.Menu.resources
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.Stock.resources
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.Ventas.resources
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.exe
+C:\Users\Pablo\Desktop\POS\POS\obj\Debug\POS.pdb
+C:\Users\Pablo\Desktop\POS2\POS\bin\Debug\POS.exe.config
+C:\Users\Pablo\Desktop\POS2\POS\bin\Debug\POS.exe
+C:\Users\Pablo\Desktop\POS2\POS\bin\Debug\POS.pdb
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.Caja.resources
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.Clientes.resources
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.Egresos.resources
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.Ingresos.resources
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.Menu.resources
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.Stock.resources
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.Ventas.resources
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.exe
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.pdb
+C:\Users\Pablo\Desktop\POS2\POS\obj\Debug\POS.Buscar_Clientes.resources
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\bin\Debug\POS.exe.config
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\bin\Debug\POS.exe
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\bin\Debug\POS.pdb
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.Buscar_Clientes.resources
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.Caja.resources
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.Clientes.resources
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.Egresos.resources
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.Ingresos.resources
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.Menu.resources
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.Stock.resources
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.Ventas.resources
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.exe
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.pdb
+C:\Users\Pablo\Desktop\POS-mas avanzado\POS\obj\Debug\POS.HistorialFacturas.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.Buscar_Clientes.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.Caja.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.Clientes.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.Egresos.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.Ingresos.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.Menu.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.Stock.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.Ventas.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.exe
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.pdb
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.AltaProductos.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.Logeo.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\obj\Debug\POS.VerFactura.resources
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\bin\Debug\POS.exe.config
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\bin\Debug\POS.exe
+C:\Users\Maxi\Desktop\UTN\PROGRAMACION III\PROYECTO\POS-unificado_20190723\POS\bin\Debug\POS.pdb
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\bin\Debug\POS.exe.config
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\bin\Debug\POS.exe
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\bin\Debug\POS.pdb
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.AltaProductos.resources
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.Buscar_Clientes.resources
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.Caja.resources
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.Clientes.resources
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.Egresos.resources
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.Ingresos.resources
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.Logeo.resources
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.Menu.resources
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.Stock.resources
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.Ventas.resources
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.VerFactura.resources
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.exe
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.pdb
+C:\Users\Pablo\Desktop\POS-unificado_20190723\POS\obj\Debug\POS.Vendedores.resources
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.csprojAssemblyReference.cache
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.AltaProductos.resources
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Buscar_Clientes.resources
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Caja.resources
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Clientes.resources
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Menu.resources
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Properties.Resources.resources
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Stock.resources
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Ventas.resources
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.VerFactura.resources
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.csproj.GenerateResource.cache
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.exe
+D:\programacion\c#\POS-serializable\POS\obj\Debug\POS.pdb
+D:\programacion\c#\POS-serializable\POS\bin\Debug\POS.exe.config
+D:\programacion\c#\POS-serializable\POS\bin\Debug\POS.exe
+D:\programacion\c#\POS-serializable\POS\bin\Debug\POS.pdb
+E:\programacion\c#\POS-serializable\POS\bin\Debug\POS.exe.config
+E:\programacion\c#\POS-serializable\POS\bin\Debug\POS.exe
+E:\programacion\c#\POS-serializable\POS\bin\Debug\POS.pdb
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.AltaProductos.resources
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Buscar_Clientes.resources
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Caja.resources
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Clientes.resources
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Menu.resources
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Properties.Resources.resources
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Stock.resources
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.Ventas.resources
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.VerFactura.resources
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.csproj.GenerateResource.cache
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.exe
+E:\programacion\c#\POS-serializable\POS\obj\Debug\POS.pdb
